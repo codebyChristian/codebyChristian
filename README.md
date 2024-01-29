@@ -1,4 +1,4 @@
-### "Hello! 👋 I'm passionate about technology and aspiring to become a full-stack developer. Currently, I'm working on HTML and CSS projects, but I have previous experience with Python. My current focus is on mastering object-oriented programming with Java. I'm dedicated to learning and open to acquiring new skills. Let's connect and collaborate on exciting projects together! 🚀"
+### Hello! 👋 I'm passionate about technology and aspiring to become a full-stack developer. Currently, I'm working on HTML and CSS projects, but I have previous experience with Python. My current focus is on mastering object-oriented programming with Java. I'm dedicated to learning and open to acquiring new skills. Let's connect and collaborate on exciting projects together! 🚀
 
 
 
